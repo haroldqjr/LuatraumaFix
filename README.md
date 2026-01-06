@@ -34,9 +34,6 @@ How to use it (VERY IMPORTANT)
   A black window will open
   Text will scroll
   This can take 1–3 minutes
-
-5️⃣ When it says Done
-
-Press any key to close the window.
-
-The updater should launch automatically.
+5. When it says Done
+  Press any key to close the window.
+  The updater should launch automatically.
