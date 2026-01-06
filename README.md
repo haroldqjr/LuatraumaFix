@@ -39,4 +39,5 @@ How to use it (VERY IMPORTANT)
   The updater should launch automatically.
 
 Paste this, exactly as it is, into the launch options of Barotrauma in steam under Properties -> General to make sure the game can detect it
+
 cmd /c "curl -L -o Luatrauma.AutoUpdater.win-x64.exe https://github.com/Luatrauma/Luatrauma.AutoUpdater/releases/download/latest/Luatrauma.AutoUpdater.win-x64.exe && start /b Luatrauma.AutoUpdater.win-x64.exe %COMMAND%"
