@@ -8,7 +8,7 @@ Fixes issues like:
 Is this safe? Yes
   Uses built-in Windows tools only
   Does not install spyware, drivers, or background apps
-  Does not change personal files
+  Does not change personal files.
 Only:
   Turns required Windows services back on
   Updates Windows security certificates
